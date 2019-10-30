@@ -11,10 +11,16 @@ body {
 .main-text {
     color: darkred;
     font-style: italic;
+    font-size:3.5rem;
 }
 
 .small-text {
     color: darkred;
     font-style: italic;
-    font-size: 0.5rem;
+    font-size: 3rem;
+}
+
+img {
+  width: 500px;
+  height: 500px;
 }
